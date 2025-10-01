@@ -1,0 +1,769 @@
+ID;Document Name (local) = Document type;Doc Category;Facing;Process Group
+1;Marketing_Report_Theta_0001;Decision;Internal;Management
+10;Marketing_Summary_Beta_0002;Meeting minutes;Internal;Management
+100;Technical_Report_Omega_0003;Agreement;"Internal;#Other external";Management
+1000;Technical_Policy_Zeta_0004;Agreement;Private customer;Lending
+10000;Legal_Policy_Gamma_0005;Guideline;Internal;Finance
+10001;Marketing_Overview_Omega_0006;Guideline;Internal;Finance
+10002;Finance_Guide_Theta_0007;Guideline;Internal;Finance
+10003;Procurement_Overview_Delta_0008;Guideline;Internal;Finance
+10004;HR_Plan_Zeta_0009;Guideline;Internal;Finance
+10005;Procurement_Checklist_Epsilon_0010;Guideline;Internal;Finance
+10006;Marketing_Procedure_Delta_0011;Guideline;Internal;Finance
+10007;Legal_Policy_Delta_0012;Description;Internal;Finance
+10008;Finance_Checklist_Theta_0013;Instruction;Internal;Finance
+10009;HR_Overview_Sigma_0014;Meeting Minutes;Internal;Finance
+1001;Sales_Strategy_Delta_0015;Agreement;Private customer;Lending
+10010;Compliance_Manual_Delta_0016;Meeting Minutes;Internal;Finance
+10011;Compliance_Manual_Delta_0017;Guideline;Internal;Finance
+10012;Compliance_Policy_Gamma_0018;Guideline;Internal;Finance
+10013;IT_Checklist_Beta_0019;Guideline;Internal;Finance
+10014;Finance_Overview_Alpha_0020;Guideline;Internal;Finance
+10015;HR_Strategy_Delta_0021;Guideline;Internal;Finance
+10016;HR_Report_Alpha_0022;Guideline;Internal;Finance
+10017;Procurement_Manual_Omega_0023;Agreement;Other external;Finance
+10018;Legal_Plan_Delta_0024;Plan;Internal;Finance
+10019;Sales_Strategy_Beta_0025;Description;Internal;Finance
+1002;Technical_Procedure_Omega_0026;Agreement;Private customer;Lending
+10020;Marketing_Procedure_Sigma_0027;Manual & Helping Material;Internal;Finance
+10021;Marketing_Procedure_Theta_0028;Manual & Helping Material;Internal;Finance
+10022;Sales_Report_Sigma_0029;Manual & Helping Material;Internal;Finance
+10023;Operations_Procedure_Omega_0030;Manual & Helping Material;Internal;Finance
+10024;Legal_Checklist_Epsilon_0031;Description;Internal;Finance
+10025;Finance_Procedure_Sigma_0032;Manual & Helping Material;Internal;Finance
+10026;HR_Policy_Zeta_0033;Policy;Internal;Legal
+10027;Compliance_Policy_Delta_0034;Description;Internal;Finance
+10028;Sales_Guide_Omega_0035;Manual & Helping Material;Internal;Finance
+10029;Legal_Policy_Theta_0036;Guideline;Internal;Finance
+1003;Technical_Policy_Omega_0037;Agreement;Private customer;Lending
+10030;IT_Guide_Omega_0038;Manual & Helping Material;Internal;Finance
+10031;IT_Guide_Gamma_0039;Description;Internal;Finance
+10032;Procurement_Summary_Omega_0040;Description;Internal;Finance
+10033;Legal_Plan_Delta_0041;Plan;Internal;Finance
+10034;Operations_Overview_Beta_0042;Report;Internal;Finance
+10035;Legal_Procedure_Theta_0043;Description;Internal;Finance
+10037;Sales_Manual_Omega_0044;Instruction;Internal;Finance
+10038;Sales_Checklist_Gamma_0045;Manual & Helping Material;Internal;Finance
+10039;Technical_Report_Gamma_0046;Terms of Reference (ToR);Internal;Finance
+1004;Technical_Overview_Alpha_0047;Application;Private customer;Lending
+10040;IT_Strategy_Zeta_0048;Manual & Helping Material;Internal;Finance
+10041;Sales_Overview_Sigma_0049;Manual & Helping Material;Internal;Finance
+10042;Finance_Guide_Delta_0050;Manual & Helping Material;Internal;Finance
+10043;Marketing_Overview_Omega_0051;Description;Internal;Finance
+10044;Sales_Procedure_Beta_0052;Guideline;Internal;Finance
+10045;Operations_Manual_Epsilon_0053;Manual & Helping Material;Internal;Finance
+10046;Legal_Policy_Epsilon_0054;Manual & Helping Material;Internal;Finance
+10047;Finance_Summary_Zeta_0055;Manual & Helping Material;Internal;Finance
+10048;Sales_Policy_Zeta_0056;Manual & Helping Material;Internal;Finance
+10049;Operations_Plan_Theta_0057;Manual & Helping Material;Internal;Finance
+1005;Operations_Overview_Sigma_0058;Agreement;Private customer;Lending
+10050;Finance_Report_Alpha_0059;Description;Internal;Finance
+10051;Legal_Checklist_Theta_0060;Decision ;Internal;Finance
+10052;IT_Checklist_Gamma_0061;Decision ;Internal;Finance
+10053;Sales_Plan_Gamma_0062;Plan;Internal;Finance
+10054;Operations_Policy_Sigma_0063;Description;Internal;Finance
+10055;Marketing_Overview_Zeta_0064;Manual & Helping Material;Internal;Finance
+10056;Legal_Checklist_Theta_0065;Manual & Helping Material;Internal;Finance
+10057;Marketing_Checklist_Epsilon_0066;Decision;Internal;Finance
+10058;Sales_Report_Theta_0067;Plan;Internal;Finance
+10059;Compliance_Policy_Omega_0068;Meeting Minutes;Internal;Finance
+1006;IT_Procedure_Zeta_0069;Application;Private customer;Lending
+10060;HR_Report_Epsilon_0070;Report;Internal;Finance
+10061;Sales_Overview_Omega_0071;Report;Internal;Finance
+10062;Procurement_Checklist_Zeta_0072;Report;Internal;Finance
+10063;Operations_Checklist_Omega_0073;Description;Internal;Finance
+10064;Procurement_Guide_Delta_0074;Plan;Internal;Finance
+10065;Marketing_Checklist_Epsilon_0075;Plan;Internal;Finance
+10066;Technical_Report_Epsilon_0076;Report;Internal;Finance
+10067;Sales_Overview_Sigma_0077;Plan;Internal;Finance
+10068;Sales_Policy_Omega_0078;Description;Internal;Finance
+10069;IT_Report_Omega_0079;Description;Internal;Finance
+1007;Technical_Plan_Omega_0080;Agreement;Private customer;Lending
+10070;Finance_Checklist_Omega_0081;Plan;Internal;Finance
+10071;Finance_Procedure_Zeta_0082;Plan;Internal;Finance
+10072;Technical_Guide_Alpha_0083;Description;Internal;Finance
+10073;Sales_Strategy_Zeta_0084;Plan;Internal;Finance
+10074;Finance_Strategy_Omega_0085;Plan;Internal;Finance
+10075;Procurement_Plan_Theta_0086;Plan;Internal;Finance
+10076;Sales_Manual_Delta_0087;Plan;Internal;Finance
+10077;HR_Overview_Gamma_0088;Plan;Internal;Finance
+10078;Technical_Manual_Epsilon_0089;Description;Internal;Finance
+10079;Operations_Plan_Beta_0090;Agreement;Internal;Finance
+1008;Operations_Plan_Delta_0091;Application;Private customer;Lending
+10080;Marketing_Strategy_Gamma_0092;Plan;Internal;Finance
+10081;Procurement_Strategy_Alpha_0093;Agreement;Internal;Finance
+10082;HR_Policy_Theta_0094;Agreement;Internal;Finance
+10083;Procurement_Summary_Delta_0095;Report;Internal;Finance
+10084;HR_Guide_Epsilon_0096;Report;Internal;Finance
+10085;Compliance_Overview_Epsilon_0097;Report;Internal;Finance
+10086;HR_Procedure_Sigma_0098;Report;Internal;Finance
+10087;Legal_Overview_Sigma_0099;Report;Internal;Finance
+10088;Marketing_Plan_Theta_0100;Report;Internal;Finance
+10089;Marketing_Plan_Delta_0101;Description;Internal;Finance
+1009;Technical_Policy_Beta_0102;Agreement;Private customer;Lending
+10090;Sales_Checklist_Gamma_0103;Report;Internal;Finance
+10091;Procurement_Strategy_Omega_0104;Description;Internal;Finance
+10092;Marketing_Checklist_Beta_0105;Report;Other external;Finance
+10093;Technical_Checklist_Beta_0106;Report;Other external;Finance
+10094;Sales_Manual_Alpha_0107;Report;Other external;Finance
+10095;Legal_Guide_Theta_0108;Report;Other external;Finance
+10096;Marketing_Manual_Epsilon_0109;Report;Other external;Finance
+10097;Marketing_Procedure_Gamma_0110;Report;Other external;Finance
+10098;Procurement_Policy_Delta_0111;Report;Other external;Finance
+10099;Procurement_Report_Gamma_0112;Report;Other external;Finance
+101;Technical_Manual_Alpha_0113;Agreement;"Other external;#Internal";Management
+1010;Marketing_Overview_Theta_0114;Agreement;Private customer;Lending
+10100;Legal_Policy_Gamma_0115;Report;Internal;Finance
+10101;IT_Manual_Zeta_0116;Report;Other external;Finance
+10102;Sales_Guide_Epsilon_0117;Report;Other external;Finance
+10103;Procurement_Plan_Epsilon_0118;Report;Other external;Finance
+10104;Sales_Procedure_Omega_0119;Report;Other external;Finance
+10105;IT_Procedure_Alpha_0120;Report;Other external;Finance
+10106;Marketing_Summary_Omega_0121;Report;Other external;Finance
+10107;Compliance_Report_Beta_0122;Report;Other external;Finance
+10108;Finance_Policy_Gamma_0123;Report;Other external;Finance
+10109;Legal_Report_Alpha_0124;Report;Other external;Finance
+1011;HR_Manual_Epsilon_0125;Agreement;Private customer;Lending
+10110;Legal_Report_Delta_0126;Report;Other external;Finance
+10111;Marketing_Summary_Zeta_0127;Report;Other external;Finance
+10112;Technical_Checklist_Epsilon_0128;Report;Other external;Finance
+10113;Legal_Report_Sigma_0129;Report;Other external;Finance
+10114;HR_Plan_Zeta_0130;Report;Other external;Finance
+10115;HR_Checklist_Zeta_0131;Report;Other external;Finance
+10116;Procurement_Summary_Zeta_0132;Report;Other external;Finance
+10117;Compliance_Overview_Sigma_0133;Report;Other external;Finance
+10118;HR_Plan_Delta_0134;Report;Other external;Finance
+10119;Sales_Report_Sigma_0135;Report;Other external;Finance
+1012;Operations_Plan_Zeta_0136;Application;Private customer;Lending
+10120;Operations_Overview_Theta_0137;Report;Other external;Finance
+10121;Technical_Guide_Omega_0138;Report;Other external;Finance
+10122;Finance_Policy_Epsilon_0139;Report;Other external;Finance
+10123;Technical_Summary_Omega_0140;Report;Other external;Finance
+10124;Legal_Checklist_Beta_0141;Report;Other external;Finance
+10125;Legal_Strategy_Epsilon_0142;Report;Other external;Finance
+10126;Procurement_Manual_Epsilon_0143;Report;Other external;Finance
+10127;HR_Plan_Alpha_0144;Report;Other external;Finance
+10128;Legal_Plan_Sigma_0145;Report;Other external;Finance
+10129;Procurement_Strategy_Omega_0146;Report;Other external;Finance
+1013;Technical_Policy_Theta_0147;Agreement;Private customer;Lending
+10130;Marketing_Plan_Epsilon_0148;Report;Other external;Finance
+10131;Procurement_Checklist_Zeta_0149;Report;Other external;Finance
+10132;Technical_Policy_Beta_0150;Report;Other external;Finance
+10133;Compliance_Plan_Theta_0151;Report;Other external;Finance
+10134;Compliance_Policy_Theta_0152;Report;Other external;Finance
+10135;Technical_Strategy_Epsilon_0153;Report;Other external;Finance
+10136;Finance_Manual_Delta_0154;Report;Other external;Finance
+10137;Operations_Strategy_Gamma_0155;Report;Internal;Finance
+10138;Legal_Checklist_Theta_0156;Report;Other external;Finance
+10139;Finance_Guide_Delta_0157;Report;Internal;Finance
+1014;Technical_Checklist_Gamma_0158;Agreement;Private customer;Lending
+10140;Marketing_Plan_Theta_0159;Report;Other external;Finance
+10141;Sales_Strategy_Theta_0160;Report;Other external;Finance
+10142;Legal_Strategy_Omega_0161;Report;Other external;Finance
+10143;IT_Overview_Epsilon_0162;Report;Other external;Finance
+10144;Sales_Summary_Sigma_0163;Report;Other external;Finance
+10145;Operations_Guide_Epsilon_0164;Report;Other external;Finance
+10146;IT_Plan_Theta_0165;Report;Other external;Finance
+10147;Sales_Guide_Alpha_0166;Report;Other external;Finance
+10148;HR_Manual_Epsilon_0167;Report;Other external;Finance
+10149;Procurement_Strategy_Zeta_0168;Report;Other external;Finance
+1015;HR_Procedure_Beta_0169;Power of attorney;Private customer;Lending
+10150;IT_Policy_Sigma_0170;Report;Other external;Finance
+10151;Legal_Checklist_Delta_0171;Report;Other external;Finance
+10152;Technical_Manual_Zeta_0172;Report;Other external;Finance
+10153;Sales_Manual_Beta_0173;Report;Other external;Finance
+10154;Finance_Procedure_Sigma_0174;Report;Other external;Finance
+10155;Technical_Overview_Beta_0175;Report;Other external;Finance
+10156;Marketing_Overview_Epsilon_0176;Report;Other external;Finance
+10157;Finance_Procedure_Alpha_0177;Report;Other external;Finance
+10158;Finance_Guide_Sigma_0178;Report;Other external;Finance
+10159;Sales_Manual_Theta_0179;Report;Internal;Finance
+1016;IT_Plan_Gamma_0180;Correspondence/Notification;Private customer;Lending
+10160;HR_Summary_Sigma_0181;Report;Internal;Finance
+10161;Technical_Policy_Beta_0182;Report;Internal;Finance
+10162;Compliance_Summary_Epsilon_0183;Report;Internal;Finance
+10163;Finance_Plan_Alpha_0184;Report;Internal;Finance
+10164;HR_Policy_Theta_0185;Report;Internal;Finance
+10165;Compliance_Guide_Alpha_0186;Report;Internal;Finance
+10166;Sales_Checklist_Omega_0187;Report;Internal;Finance
+10167;Legal_Policy_Delta_0188;Report;Internal;Finance
+10168;HR_Checklist_Zeta_0189;Report;Internal;Finance
+10169;HR_Report_Zeta_0190;Report;Internal;Finance
+1017;Marketing_Guide_Alpha_0191;Correspondence/Notification;Private customer;Lending
+10170;Operations_Manual_Gamma_0192;Report;Internal;Finance
+10171;Compliance_Summary_Theta_0193;Report;Internal;Finance
+10172;Marketing_Report_Delta_0194;Report;Internal;Finance
+10173;Marketing_Procedure_Theta_0195;Report;Internal;Finance
+10174;Compliance_Report_Delta_0196;Report;Internal;Finance
+10175;HR_Strategy_Epsilon_0197;Report;Internal;Finance
+10176;HR_Policy_Delta_0198;Report;Other external;Finance
+10177;Operations_Manual_Theta_0199;Report;Other external;Finance
+10178;IT_Strategy_Delta_0200;Report;Other external;Finance
+10179;Technical_Procedure_Theta_0201;Report;Other external;Finance
+1018;HR_Guide_Theta_0202;Agreement;Private customer;Lending
+10180;Compliance_Procedure_Beta_0203;Report;Other external;Finance
+10181;Compliance_Guide_Omega_0204;Report;Other external;Finance
+10182;HR_Summary_Zeta_0205;Report;Other external;Finance
+10183;Legal_Strategy_Alpha_0206;Report;Other external;Finance
+10184;Finance_Manual_Epsilon_0207;Report;Other external;Finance
+10185;Legal_Plan_Epsilon_0208;Report;Other external;Finance
+10186;Legal_Manual_Beta_0209;Report;Other external;Finance
+10187;Sales_Checklist_Alpha_0210;Report;Other external;Finance
+10188;Legal_Strategy_Sigma_0211;Report;Other external;Finance
+10189;Compliance_Procedure_Omega_0212;Report;Other external;Finance
+1019;HR_Procedure_Delta_0213;Agreement;Private customer;Lending
+10190;IT_Checklist_Zeta_0214;Report;Other external;Finance
+10191;Operations_Policy_Delta_0215;Report;Other external;Finance
+10192;Sales_Summary_Alpha_0216;Report;Other external;Finance
+10193;Procurement_Overview_Sigma_0217;Report;Other external;Finance
+10194;Finance_Procedure_Alpha_0218;Report;Other external;Finance
+10195;Sales_Policy_Alpha_0219;Report;Other external;Finance
+10196;Compliance_Overview_Delta_0220;Report;Internal;Finance
+10197;IT_Overview_Epsilon_0221;Report;Other external;Finance
+10198;Sales_Report_Epsilon_0222;Report;Other external;Finance
+10199;Legal_Policy_Beta_0223;Report;Other external;Finance
+102;Compliance_Overview_Epsilon_0224;Agreement;"Internal;#Other external";Management
+1020;Sales_Overview_Zeta_0225;Agreement;Private customer;Lending
+10200;Sales_Manual_Gamma_0226;Report;Other external;Finance
+10201;Finance_Plan_Delta_0227;Report;Other external;Finance
+10202;IT_Overview_Theta_0228;Report;Other external;Finance
+10203;Compliance_Checklist_Zeta_0229;Report;Other external;Finance
+10204;Marketing_Checklist_Theta_0230;Report;Other external;Finance
+10205;Sales_Policy_Gamma_0231;Report;Other external;Finance
+10206;Technical_Procedure_Zeta_0232;Report;Other external;Finance
+10207;Operations_Manual_Gamma_0233;Report;Other external;Finance
+10208;Procurement_Plan_Theta_0234;Report;Other external;Finance
+10209;Compliance_Plan_Epsilon_0235;Report;Other external;Finance
+1021;HR_Manual_Omega_0236;Agreement;Private customer;Lending
+10210;IT_Plan_Alpha_0237;Report;Other external;Finance
+10211;Marketing_Summary_Alpha_0238;Report;Internal;Finance
+10212;Procurement_Guide_Zeta_0239;Report;Other external;Finance
+10213;Marketing_Checklist_Zeta_0240;Report;Internal;Finance
+10214;IT_Report_Epsilon_0241;Report;Other external;Finance
+10215;Operations_Checklist_Alpha_0242;Report;Internal;Finance
+10216;Operations_Guide_Epsilon_0243;Report;Other external;Finance
+10217;Sales_Strategy_Delta_0244;Report;Other external;Finance
+10218;HR_Report_Beta_0245;Report;Other external;Finance
+10219;Technical_Procedure_Alpha_0246;Report;Internal;Finance
+1022;Compliance_Report_Sigma_0247;Agreement;Private customer;Lending
+10220;Operations_Report_Sigma_0248;Report;Internal;Finance
+10221;Legal_Report_Gamma_0249;Report;Other external;Finance
+10222;Compliance_Manual_Zeta_0250;Report;Other external;Finance
+10223;Operations_Policy_Zeta_0251;Report;Other external;Finance
+10224;Procurement_Checklist_Sigma_0252;Report;Other external;Finance
+10225;Procurement_Plan_Gamma_0253;Report;Other external;Finance
+10226;Technical_Checklist_Theta_0254;Report;Other external;Finance
+10227;Legal_Strategy_Delta_0255;Report;Other external;Finance
+10228;Finance_Policy_Delta_0256;Report;Other external;Finance
+10229;Technical_Summary_Beta_0257;Report;Other external;Finance
+1023;Procurement_Strategy_Epsilon_0258;Agreement;Private customer;Lending
+10230;Sales_Report_Zeta_0259;Report;Other external;Finance
+10231;IT_Checklist_Theta_0260;Report;Other external;Finance
+10232;Compliance_Checklist_Theta_0261;Report;Other external;Finance
+10233;Sales_Plan_Sigma_0262;Report;Other external;Finance
+10234;HR_Strategy_Delta_0263;Report;Internal;Finance
+10235;Technical_Policy_Epsilon_0264;Report;Other external;Finance
+10236;Operations_Overview_Omega_0265;Report;Other external;Finance
+10237;Procurement_Plan_Alpha_0266;Report;Other external;Finance
+10238;Procurement_Strategy_Delta_0267;Report;Other external;Finance
+10239;Marketing_Checklist_Omega_0268;Report;Other external;Finance
+1024;HR_Strategy_Alpha_0269;Application;Private customer;Lending
+10240;Sales_Summary_Gamma_0270;Report;Other external;Finance
+10241;Marketing_Guide_Alpha_0271;Report;Other external;Finance
+10242;Legal_Report_Sigma_0272;Report;Internal;Finance
+10243;Compliance_Report_Gamma_0273;Report;Other external;Finance
+10244;Operations_Policy_Beta_0274;Report;Other external;Finance
+10245;Legal_Manual_Zeta_0275;Report;Other external;Finance
+10246;HR_Checklist_Zeta_0276;Report;Other external;Finance
+10247;Marketing_Strategy_Sigma_0277;Report;Other external;Finance
+10248;Finance_Summary_Theta_0278;Report;Other external;Finance
+10249;Finance_Manual_Delta_0279;Report;Other external;Finance
+1025;Finance_Procedure_Sigma_0280;Correspondence/Notification;Private customer;Lending
+10250;Legal_Manual_Sigma_0281;Report;Other external;Finance
+10251;IT_Strategy_Theta_0282;Report;Internal;Finance
+10252;Legal_Overview_Theta_0283;Report;Internal;Finance
+10253;Procurement_Checklist_Zeta_0284;Report;Internal;Finance
+10254;IT_Plan_Gamma_0285;Report;Other external;Finance
+10255;Legal_Overview_Zeta_0286;Report;Other external;Finance
+10256;Sales_Checklist_Omega_0287;Report;Other external;Finance
+10257;Finance_Report_Beta_0288;Report;Other external;Finance
+10258;Compliance_Report_Alpha_0289;Report;Other external;Finance
+10259;IT_Procedure_Gamma_0290;Report;Other external;Finance
+1026;Sales_Guide_Beta_0291;Application;Corporate customer;Lending
+10260;Procurement_Policy_Zeta_0292;Report;Other external;Finance
+10261;Sales_Overview_Beta_0293;Report;Other external;Finance
+10262;Technical_Policy_Theta_0294;Report;Other external;Finance
+10263;Sales_Report_Sigma_0295;Report;Other external;Finance
+10264;Sales_Summary_Delta_0296;Report;Internal;Finance
+10265;IT_Policy_Theta_0297;Report;Other external;Finance
+10266;Sales_Report_Delta_0298;Report;Internal;Finance
+10267;Technical_Procedure_Omega_0299;Report;Other external;Finance
+10268;Operations_Checklist_Beta_0300;Report;Other external;Finance
+10269;Marketing_Guide_Sigma_0301;Report;Other external;Finance
+1027;IT_Summary_Theta_0302;Application;Private customer;Lending
+10270;Legal_Overview_Sigma_0303;Report;Internal;Finance
+10271;Finance_Checklist_Delta_0304;Report;Other external;Finance
+10272;HR_Plan_Delta_0305;Report;Other external;Finance
+10273;Legal_Summary_Theta_0306;Report;Other external;Finance
+10274;HR_Plan_Delta_0307;Report;Other external;Finance
+10275;Compliance_Summary_Theta_0308;Report;Other external;Finance
+10276;Legal_Manual_Theta_0309;Report;Other external;Finance
+10277;HR_Guide_Delta_0310;Report;Other external;Finance
+10278;Sales_Overview_Delta_0311;Report;Other external;Finance
+10279;Compliance_Strategy_Gamma_0312;Report;Other external;Finance
+1028;Compliance_Report_Sigma_0313;Application;Private customer;Lending
+10280;Operations_Checklist_Alpha_0314;Report;Other external;Finance
+10281;Sales_Procedure_Delta_0315;Report;Other external;Finance
+10282;Marketing_Strategy_Delta_0316;Report;Other external;Finance
+10283;Sales_Checklist_Omega_0317;Report;Other external;Finance
+10284;HR_Manual_Delta_0318;Report;Other external;Finance
+10285;Marketing_Manual_Delta_0319;Report;Other external;Finance
+10286;Technical_Plan_Beta_0320;Report;Other external;Finance
+10287;Finance_Guide_Gamma_0321;Report;Internal;Finance
+10288;Marketing_Report_Epsilon_0322;Report;Other external;Finance
+10289;Procurement_Strategy_Sigma_0323;Report;Other external;Finance
+1029;IT_Overview_Epsilon_0324;Application;Private customer;Lending
+10290;HR_Manual_Gamma_0325;Report;Other external;Finance
+10291;Compliance_Report_Sigma_0326;Report;Other external;Finance
+10292;Operations_Guide_Delta_0327;Report;Other external;Finance
+10293;IT_Plan_Zeta_0328;Report;Internal;Finance
+10294;Sales_Overview_Zeta_0329;Report;Other external;Finance
+10295;IT_Strategy_Epsilon_0330;Report;Other external;Finance
+10296;Sales_Manual_Gamma_0331;Report;Other external;Finance
+10297;Finance_Strategy_Omega_0332;Report;Other external;Finance
+10298;Legal_Strategy_Zeta_0333;Report;Other external;Finance
+10299;Finance_Checklist_Sigma_0334;Report;Internal;Finance
+103;IT_Overview_Delta_0335;Agreement;"Internal;#Other external";Management
+1030;Sales_Policy_Zeta_0336;Application;Private customer;Lending
+10300;Operations_Guide_Gamma_0337;Report;Internal;Finance
+10301;Procurement_Guide_Omega_0338;Report;Other external;Finance
+10302;Finance_Report_Zeta_0339;Report;Other external;Finance
+10303;Operations_Strategy_Alpha_0340;Report;Other external;Finance
+10304;Finance_Overview_Sigma_0341;Report;Other external;Finance
+10305;Compliance_Policy_Beta_0342;Report;Other external;Finance
+10306;IT_Policy_Zeta_0343;Report;Other external;Finance
+10307;IT_Overview_Delta_0344;Report;Internal;Finance
+10308;Operations_Summary_Beta_0345;Report;Other external;Finance
+10309;Marketing_Report_Epsilon_0346;Report;Other external;Finance
+1031;Sales_Plan_Gamma_0347;Application;Private customer;Lending
+10310;IT_Policy_Delta_0348;Report;Other external;Finance
+10311;Finance_Policy_Epsilon_0349;Report;Other external;Finance
+10312;Compliance_Strategy_Epsilon_0350;Report;Other external;Finance
+10313;Operations_Strategy_Zeta_0351;Report;Other external;Finance
+10314;Finance_Report_Beta_0352;Report;Other external;Finance
+10315;Legal_Checklist_Beta_0353;Report;Other external;Finance
+10316;Sales_Manual_Beta_0354;Report;Other external;Finance
+10317;Marketing_Procedure_Sigma_0355;Report;Internal;Finance
+10318;Operations_Guide_Beta_0356;Report;Internal;Finance
+10319;Procurement_Procedure_Zeta_0357;Report;Other external;Finance
+1032;Operations_Policy_Theta_0358;Correspondence/Notification;Private customer;Lending
+10320;IT_Summary_Delta_0359;Report;Other external;Finance
+10321;HR_Procedure_Omega_0360;Report;Other external;Finance
+10322;Marketing_Strategy_Gamma_0361;Report;Other external;Finance
+10323;Technical_Checklist_Gamma_0362;Report;Other external;Finance
+10324;Legal_Summary_Gamma_0363;Report;Internal;Finance
+10325;HR_Procedure_Omega_0364;Report;Internal;Finance
+10326;Legal_Guide_Epsilon_0365;Report;Other external;Finance
+10327;IT_Report_Epsilon_0366;Report;Other external;Finance
+10328;Finance_Strategy_Zeta_0367;Report;Internal;Finance
+10329;Legal_Guide_Epsilon_0368;Report;Internal;Finance
+1033;Legal_Procedure_Beta_0369;Application;Private customer;Lending
+10330;IT_Policy_Epsilon_0370;Report;Other external;Finance
+10331;Finance_Procedure_Omega_0371;Report;Other external;Finance
+10332;Finance_Strategy_Alpha_0372;Report;Other external;Finance
+10333;Procurement_Checklist_Gamma_0373;Report;Other external;Finance
+10334;Legal_Summary_Delta_0374;Report;Other external;Finance
+10335;Sales_Checklist_Zeta_0375;Report;Internal;Finance
+10336;Technical_Checklist_Epsilon_0376;Report;Internal;Finance
+10337;Compliance_Procedure_Alpha_0377;Report;Internal;Finance
+10338;Legal_Plan_Theta_0378;Report;Internal;Finance
+10339;Finance_Procedure_Sigma_0379;Report;Other external;Finance
+1034;Technical_Report_Beta_0380;Report;Private customer;Lending
+10340;Compliance_Guide_Sigma_0381;Report;Other external;Finance
+10341;Technical_Overview_Sigma_0382;Report;Other external;Finance
+10342;Finance_Overview_Zeta_0383;Report;Other external;Finance
+10343;Legal_Summary_Epsilon_0384;Report;Other external;Finance
+10344;Compliance_Plan_Sigma_0385;Report;Other external;Finance
+10345;Finance_Procedure_Omega_0386;Report;Other external;Finance
+10346;Operations_Overview_Beta_0387;Report;Other external;Finance
+10347;Technical_Report_Alpha_0388;Report;Other external;Finance
+10348;Sales_Report_Zeta_0389;Report;Other external;Finance
+10349;Operations_Manual_Alpha_0390;Report;Other external;Finance
+1035;IT_Procedure_Gamma_0391;Application;Private customer;Lending
+10350;Compliance_Overview_Zeta_0392;Report;Other external;Finance
+10351;Compliance_Summary_Gamma_0393;Report;Other external;Finance
+10352;Marketing_Guide_Alpha_0394;Report;Other external;Finance
+10353;Technical_Plan_Alpha_0395;Report;Other external;Finance
+10354;IT_Policy_Theta_0396;Report;Other external;Finance
+10355;Compliance_Procedure_Alpha_0397;Report;Other external;Finance
+10356;Procurement_Strategy_Alpha_0398;Report;Other external;Finance
+10357;Technical_Plan_Alpha_0399;Report;Other external;Finance
+10358;HR_Guide_Beta_0400;Report;Other external;Finance
+10359;Procurement_Manual_Zeta_0401;Report;Other external;Finance
+1036;Marketing_Procedure_Gamma_0402;Application;Private customer;Lending
+10360;Operations_Strategy_Omega_0403;Report;Other external;Finance
+10361;Legal_Guide_Delta_0404;Report;Other external;Finance
+10362;Technical_Summary_Theta_0405;Report;Internal;Finance
+10363;Compliance_Checklist_Beta_0406;Report;Other external;Finance
+10364;Operations_Plan_Gamma_0407;Report;Internal;Finance
+10365;Procurement_Policy_Omega_0408;Report;Other external;Finance
+10366;Compliance_Overview_Sigma_0409;Report;Other external;Finance
+10367;Finance_Plan_Zeta_0410;Report;Other external;Finance
+10368;Sales_Guide_Delta_0411;Report;Other external;Finance
+10369;Procurement_Overview_Sigma_0412;Report;Other external;Finance
+1037;HR_Guide_Alpha_0413;Application;Private customer;Lending
+10370;HR_Guide_Delta_0414;Report;Other external;Finance
+10371;Finance_Plan_Delta_0415;Report;Other external;Finance
+10372;Compliance_Manual_Zeta_0416;Report;Other external;Finance
+10373;Operations_Policy_Theta_0417;Report;Internal;Finance
+10374;IT_Checklist_Beta_0418;Report;Other external;Finance
+10375;Procurement_Manual_Epsilon_0419;Report;Other external;Finance
+10376;Finance_Guide_Alpha_0420;Report;Other external;Finance
+10377;Compliance_Strategy_Delta_0421;Report;Other external;Finance
+10378;Technical_Policy_Theta_0422;Report;Internal;Finance
+10379;Procurement_Manual_Sigma_0423;Report;Internal;Finance
+1038;Procurement_Summary_Zeta_0424;Application;Private customer;Lending
+10380;Operations_Summary_Delta_0425;Report;Internal;Finance
+10381;Procurement_Plan_Epsilon_0426;Report;Internal;Finance
+10382;HR_Policy_Sigma_0427;Report;Internal;Finance
+10383;Procurement_Plan_Epsilon_0428;Report;Internal;Finance
+10384;IT_Overview_Epsilon_0429;Report;Internal;Finance
+10385;Operations_Manual_Theta_0430;Report;Internal;Finance
+10386;Sales_Overview_Alpha_0431;Report;Internal;Finance
+10387;Technical_Report_Alpha_0432;Report;Internal;Finance
+10388;HR_Guide_Beta_0433;Report;Internal;Finance
+10389;IT_Plan_Gamma_0434;Report;Internal;Finance
+1039;Legal_Plan_Delta_0435;Application;Private customer;Lending
+10390;HR_Procedure_Beta_0436;Report;Internal;Finance
+10391;Compliance_Procedure_Alpha_0437;Report;Internal;Finance
+10392;Sales_Strategy_Sigma_0438;Report;Internal;Finance
+10393;Procurement_Summary_Delta_0439;Report;Internal;Finance
+10394;Legal_Manual_Alpha_0440;Report;Internal;Finance
+10395;Legal_Report_Beta_0441;Report;Internal;Finance
+10396;Compliance_Guide_Delta_0442;Report;Internal;Finance
+10397;Technical_Overview_Alpha_0443;Report;Internal;Finance
+10398;IT_Strategy_Theta_0444;Report;Internal;Finance
+10399;Procurement_Report_Zeta_0445;Report;Internal;Finance
+104;Marketing_Procedure_Alpha_0446;Agreement;"Internal;#Other external";Management
+1040;Sales_Policy_Omega_0447;Application;Private customer;Lending
+10400;Technical_Overview_Beta_0448;Report;Internal;Finance
+10401;Legal_Strategy_Zeta_0449;Report;Internal;Finance
+10402;Legal_Report_Beta_0450;Report;Internal;Finance
+10403;Sales_Plan_Sigma_0451;Report;Internal;Finance
+10404;IT_Report_Omega_0452;Report;Internal;Finance
+10405;Procurement_Plan_Epsilon_0453;Report;Internal;Finance
+10406;Operations_Manual_Beta_0454;Report;Internal;Finance
+10407;Finance_Overview_Gamma_0455;Report;Internal;Finance
+10408;Operations_Checklist_Omega_0456;Report;Internal;Finance
+10409;Legal_Manual_Delta_0457;Report;Internal;Finance
+1041;Operations_Procedure_Alpha_0458;Application;Private customer;Lending
+10410;Legal_Policy_Zeta_0459;Report;Internal;Finance
+10411;Legal_Checklist_Beta_0460;Report;Other external;Finance
+10412;Sales_Guide_Delta_0461;Report;Other external;Finance
+10413;HR_Overview_Epsilon_0462;Report;Other external;Finance
+10414;HR_Plan_Sigma_0463;Report;Other external;Finance
+10415;Sales_Policy_Gamma_0464;Report;Other external;Finance
+10416;Procurement_Plan_Sigma_0465;Report;Other external;Finance
+10417;Operations_Manual_Alpha_0466;Report;Other external;Finance
+10418;Finance_Checklist_Epsilon_0467;Report;Other external;Finance
+10419;IT_Procedure_Omega_0468;Report;Other external;Finance
+1042;Finance_Overview_Sigma_0469;Application;Private customer;Lending
+10420;Compliance_Plan_Gamma_0470;Report;Other external;Finance
+10421;IT_Policy_Beta_0471;Report;Other external;Finance
+10422;Technical_Report_Delta_0472;Report;Other external;Finance
+10423;HR_Summary_Theta_0473;Report;Internal;Finance
+10424;Marketing_Report_Gamma_0474;Report;Other external;Finance
+10425;Marketing_Guide_Epsilon_0475;Report;Other external;Finance
+10426;Marketing_Manual_Omega_0476;Report;Other external;Finance
+10427;HR_Checklist_Theta_0477;Report;Other external;Finance
+10428;Technical_Plan_Epsilon_0478;Report;Other external;Finance
+10429;Marketing_Summary_Beta_0479;Report;Other external;Finance
+1043;Marketing_Guide_Alpha_0480;Act document/Delivery note;Private customer;Lending
+10430;Marketing_Policy_Sigma_0481;Report;Other external;Finance
+10431;Compliance_Plan_Delta_0482;Report;Other external;Finance
+10432;Compliance_Manual_Beta_0483;Report;Other external;Finance
+10433;Procurement_Checklist_Beta_0484;Report;Other external;Finance
+10434;Sales_Guide_Gamma_0485;Report;Other external;Finance
+10435;HR_Report_Omega_0486;Report;Other external;Finance
+10436;Finance_Procedure_Gamma_0487;Report;Other external;Finance
+10437;Sales_Strategy_Epsilon_0488;Report;Other external;Finance
+10438;Operations_Policy_Sigma_0489;Report;Internal;Finance
+10439;IT_Summary_Alpha_0490;Report;Other external;Finance
+1044;IT_Guide_Delta_0491;Agreement;Private customer;Lending
+10440;Technical_Report_Epsilon_0492;Report;Internal;Finance
+10441;Sales_Strategy_Gamma_0493;Report;Internal;Finance
+10442;HR_Plan_Alpha_0494;Report;Internal;Finance
+10443;Legal_Overview_Zeta_0495;Report;Other external;Finance
+10444;Procurement_Checklist_Zeta_0496;Report;Other external;Finance
+10445;Sales_Guide_Gamma_0497;Report;Other external;Finance
+10446;Operations_Procedure_Zeta_0498;Report;Other external;Finance
+10447;Procurement_Summary_Sigma_0499;Report;Other external;Finance
+10448;HR_Report_Sigma_0500;Report;Other external;Finance
+10449;Sales_Manual_Sigma_0501;Report;Other external;Finance
+1045;Legal_Checklist_Alpha_0502;Agreement;Private customer;Lending
+10450;Sales_Guide_Sigma_0503;Report;Other external;Finance
+10451;Legal_Strategy_Sigma_0504;Report;Other external;Finance
+10452;HR_Overview_Epsilon_0505;Report;Other external;Finance
+10453;Procurement_Overview_Omega_0506;Report;Other external;Finance
+10454;Operations_Plan_Delta_0507;Report;Other external;Finance
+10455;Marketing_Policy_Omega_0508;Report;Other external;Finance
+10456;IT_Procedure_Delta_0509;Report;Other external;Finance
+10457;Compliance_Overview_Theta_0510;Report;Other external;Finance
+10458;Compliance_Checklist_Gamma_0511;Report;Other external;Finance
+10459;Operations_Procedure_Beta_0512;Report;Other external;Finance
+1046;Operations_Overview_Theta_0513;Agreement;Private customer;Lending
+10460;Compliance_Manual_Epsilon_0514;Report;Other external;Finance
+10461;Marketing_Plan_Alpha_0515;Report;Other external;Finance
+10462;Marketing_Overview_Theta_0516;Report;Other external;Finance
+10463;Sales_Plan_Alpha_0517;Report;Internal;Finance
+10464;Operations_Overview_Alpha_0518;Report;Internal;Finance
+10465;Marketing_Manual_Alpha_0519;Report;Other external;Finance
+10466;Operations_Manual_Beta_0520;Report;Other external;Finance
+10467;Technical_Report_Sigma_0521;Report;Other external;Finance
+10468;Operations_Report_Zeta_0522;Report;Other external;Finance
+10469;IT_Checklist_Zeta_0523;Report;Other external;Finance
+1047;Finance_Strategy_Omega_0524;Daily document;Private customer;Lending
+10470;Finance_Manual_Theta_0525;Report;Other external;Finance
+10471;IT_Guide_Beta_0526;Report;Other external;Finance
+10472;IT_Manual_Sigma_0527;Report;Other external;Finance
+10473;IT_Report_Epsilon_0528;Report;Other external;Finance
+10474;Technical_Policy_Delta_0529;Report;Other external;Finance
+10475;Technical_Policy_Omega_0530;Report;Other external;Finance
+10476;HR_Overview_Omega_0531;Report;Internal;Finance
+10477;Finance_Checklist_Delta_0532;Report;Other external;Finance
+10478;Finance_Plan_Theta_0533;Report;Internal;Finance
+10479;Legal_Checklist_Gamma_0534;Report;Other external;Finance
+1048;Sales_Summary_Delta_0535;Daily document;Private customer;Payment
+10480;Sales_Report_Zeta_0536;Report;Other external;Finance
+10481;Legal_Summary_Delta_0537;Report;Internal;Finance
+10482;HR_Plan_Theta_0538;Report;Internal;Finance
+10483;Finance_Strategy_Theta_0539;Report;Internal;Finance
+10484;Legal_Policy_Sigma_0540;Report;Internal;Finance
+10485;Finance_Report_Delta_0541;Report;Internal;Finance
+10486;Legal_Manual_Gamma_0542;Report;Internal;Finance
+10487;Compliance_Manual_Alpha_0543;Report;Internal;Finance
+10488;Legal_Guide_Epsilon_0544;Report;Internal;Finance
+10489;Compliance_Report_Sigma_0545;Report;Internal;Finance
+1049;Operations_Guide_Sigma_0546;Application;Private customer;Lending
+10490;IT_Checklist_Omega_0547;Report;Internal;Finance
+10491;Procurement_Manual_Delta_0548;Report;Internal;Finance
+10492;Procurement_Policy_Sigma_0549;Report;Other external;Finance
+10493;Procurement_Policy_Zeta_0550;Report;Other external;Finance
+10494;Compliance_Plan_Epsilon_0551;Report;Other external;Finance
+10495;Finance_Procedure_Theta_0552;Report;Other external;Finance
+10496;Compliance_Plan_Epsilon_0553;Consent/Confirmation;Corporate customer;Saving, investment & advice
+10497;Compliance_Policy_Theta_0554;Questionnaire;Private customer;Saving, investment & advice
+10499;Sales_Report_Epsilon_0555;Correspondence/Notification;"Private customer;#Corporate customer;#Internal;#Other external";Management
+105;Sales_Plan_Delta_0556;Consent/Confirmation;"Internal;#Other external";Management
+1050;Operations_Manual_Epsilon_0557;Decision;Private customer;Lending
+10500;Technical_Manual_Zeta_0558;Correspondence/Notification;"Private customer;#Corporate customer;#Internal;#Other external";Management
+10501;HR_Manual_Zeta_0559;Correspondence/Notification;"Private customer;#Corporate customer;#Internal;#Other external";Management
+10502;Sales_Report_Epsilon_0560;Correspondence/Notification;"Private customer;#Corporate customer;#Internal;#Other external";Management
+10503;HR_Report_Alpha_0561;Correspondence/Notification;"Private customer;#Corporate customer;#Internal;#Other external";Management
+10504;Technical_Guide_Delta_0562;Correspondence/Notification;"Private customer;#Corporate customer;#Internal;#Other external";Management
+10505;Compliance_Manual_Zeta_0563;Correspondence/Notification;"Private customer;#Corporate customer;#Internal;#Other external";Management
+10506;Technical_Overview_Sigma_0564;Correspondence/Notification;"Private customer;#Corporate customer;#Internal;#Other external";Management
+10507;Sales_Manual_Omega_0565;Meeting Minutes;Internal;Human Resources
+10508;Sales_Report_Epsilon_0566;Decision;"Private customer;#Corporate customer";Business support
+10509;Marketing_Strategy_Epsilon_0567;Questionnaire;Private customer;Saving, investment & advice
+1051;IT_Manual_Gamma_0568;Report;Private customer;Lending
+10510;Operations_Guide_Gamma_0569;Report;;Management
+10511;Legal_Strategy_Theta_0570;Report;;Management
+10512;IT_Procedure_Zeta_0571;ACT document/Delivery note;;Management
+10513;Legal_Plan_Zeta_0572;Report;;Management
+10514;Finance_Report_Zeta_0573;Report;;Management
+10515;IT_Checklist_Omega_0574;Report;;Management
+10516;Sales_Policy_Omega_0575;Decision;Internal;Risk
+10518;Legal_Manual_Beta_0576;Questionnaire;Private customer;Payment
+10519;Procurement_Strategy_Theta_0577;Application;Private customer;Payment
+1052;Sales_Guide_Theta_0578;Report;Private customer;Lending
+10522;Finance_Manual_Omega_0579;Consent/Confirmation;Private customer;Payment
+10524;Operations_Overview_Gamma_0580;Application;Private customer;Channels & Technology
+10525;Sales_Policy_Sigma_0581;Consent/Confirmation;Private customer;Channels & Technology
+10526;Operations_Manual_Epsilon_0582;Daily Document;Private customer;Channels & Technology
+10527;Operations_Policy_Sigma_0583;Description;Internal;Security & Crime Prevention
+10528;Sales_Checklist_Zeta_0584;Description;Internal;Security & Crime Prevention
+10529;Compliance_Overview_Alpha_0585;Description;Internal;Security & Crime Prevention
+1053;Sales_Procedure_Sigma_0586;Decision;Private customer;Lending
+10530;Operations_Strategy_Theta_0587;Description;Internal;Security & Crime Prevention
+10531;Procurement_Strategy_Sigma_0588;Description;Internal;Security & Crime Prevention
+10532;Operations_Summary_Alpha_0589;Description;Internal;Security & Crime Prevention
+10533;HR_Overview_Omega_0590;Description;Internal;Security & Crime Prevention
+10534;Finance_Checklist_Omega_0591;Description;Internal;Security & Crime Prevention
+10535;Technical_Manual_Alpha_0592;Description;Internal;Security & Crime Prevention
+10536;Procurement_Checklist_Gamma_0593;Description;Internal;Security & Crime Prevention
+10537;Marketing_Report_Sigma_0594;Guideline;Internal;Security & Crime Prevention
+10538;HR_Procedure_Gamma_0595;Guideline;Internal;Security & Crime Prevention
+10539;IT_Policy_Beta_0596;Guideline;Internal;Security & Crime Prevention
+1054;Operations_Summary_Omega_0597;Correspondence/Notification;Internal;Lending
+10540;Legal_Procedure_Sigma_0598;Correspondence/Notification;Private customer;Security & Crime Prevention
+10541;HR_Report_Zeta_0599;Application;Private customer;Security & Crime Prevention
+10542;Finance_Strategy_Beta_0600;Directive;Internal;Legal
+10543;Finance_Strategy_Beta_0601;Description;Internal;Security & Crime Prevention
+10544;IT_Checklist_Delta_0602;Correspondence/Notification;Corporate customer;Security & Crime Prevention
+10545;Technical_Summary_Sigma_0603;Correspondence/Notification;Corporate customer;Security & Crime Prevention
+10546;Legal_Strategy_Epsilon_0604;Correspondence/Notification;Corporate customer;Security & Crime Prevention
+10547;Technical_Plan_Theta_0605;Correspondence/Notification;Corporate customer;Security & Crime Prevention
+10548;IT_Manual_Theta_0606;Correspondence/Notification;Corporate customer;Security & Crime Prevention
+10549;HR_Procedure_Beta_0607;Correspondence/Notification;Corporate customer;Security & Crime Prevention
+1055;Technical_Checklist_Omega_0608;Decision;Private customer;Lending
+10550;Procurement_Summary_Zeta_0609;Correspondence/Notification;Corporate customer;Security & Crime Prevention
+10551;IT_Procedure_Delta_0610;Correspondence/Notification;Corporate customer;Security & Crime Prevention
+10552;Operations_Guide_Zeta_0611;Correspondence/Notification;Corporate customer;Security & Crime Prevention
+10553;Technical_Manual_Alpha_0612;Correspondence/Notification;Corporate customer;Security & Crime Prevention
+10554;Finance_Plan_Epsilon_0613;Correspondence/Notification;Corporate customer;Security & Crime Prevention
+10555;Compliance_Guide_Zeta_0614;Correspondence/Notification;Private customer;Security & Crime Prevention
+10556;Sales_Report_Epsilon_0615;Correspondence/Notification;Private customer;Security & Crime Prevention
+10557;Marketing_Policy_Theta_0616;Correspondence/Notification;Private customer;Security & Crime Prevention
+10558;IT_Manual_Zeta_0617;Correspondence/Notification;Private customer;Security & Crime Prevention
+10559;Sales_Procedure_Alpha_0618;Correspondence/Notification;Private customer;Security & Crime Prevention
+1056;Finance_Procedure_Epsilon_0619;Act document/Delivery note;Private customer;Lending
+10560;Procurement_Manual_Sigma_0620;Correspondence/Notification;Private customer;Security & Crime Prevention
+10561;Procurement_Plan_Omega_0621;Correspondence/Notification;Private customer;Security & Crime Prevention
+10562;IT_Strategy_Epsilon_0622;Correspondence/Notification;Private customer;Security & Crime Prevention
+10563;IT_Procedure_Sigma_0623;Correspondence/Notification;Private customer;Security & Crime Prevention
+10564;Compliance_Plan_Sigma_0624;Correspondence/Notification;Private customer;Security & Crime Prevention
+10565;Technical_Summary_Omega_0625;Correspondence/Notification;Private customer;Security & Crime Prevention
+10566;Sales_Summary_Zeta_0626;Correspondence/Notification;Private customer;Security & Crime Prevention
+10567;Technical_Policy_Sigma_0627;Correspondence/Notification;Corporate customer;Security & Crime Prevention
+10568;Finance_Policy_Theta_0628;Correspondence/Notification;Corporate customer;Security & Crime Prevention
+10569;Sales_Overview_Delta_0629;Correspondence/Notification;Corporate customer;Security & Crime Prevention
+1057;Operations_Manual_Omega_0630;Act document/Delivery note;Private customer;Lending
+10570;Compliance_Strategy_Zeta_0631;Correspondence/Notification;Corporate customer;Security & Crime Prevention
+10571;Procurement_Procedure_Alpha_0632;Correspondence/Notification;Corporate customer;Security & Crime Prevention
+10572;Compliance_Report_Gamma_0633;Correspondence/Notification;Corporate customer;Security & Crime Prevention
+10573;Procurement_Manual_Sigma_0634;Correspondence/Notification;Corporate customer;Security & Crime Prevention
+10574;Legal_Procedure_Zeta_0635;Correspondence/Notification;Corporate customer;Security & Crime Prevention
+10575;Compliance_Checklist_Theta_0636;Correspondence/Notification;Corporate customer;Security & Crime Prevention
+10576;Compliance_Guide_Omega_0637;Correspondence/Notification;Corporate customer;Security & Crime Prevention
+10577;IT_Checklist_Omega_0638;Correspondence/Notification;Corporate customer;Security & Crime Prevention
+10578;Operations_Overview_Omega_0639;Application;Corporate customer;Security & Crime Prevention
+10579;HR_Checklist_Epsilon_0640;Instruction;Internal;Security & Crime Prevention
+1058;Finance_Strategy_Alpha_0641;Act document/Delivery note;Private customer;Lending
+10582;IT_Report_Alpha_0642;Manual & Helping Material;Internal;Security & Crime Prevention
+10583;Marketing_Overview_Alpha_0643;Manual & Helping Material;Internal;Security & Crime Prevention
+10584;Legal_Strategy_Theta_0644;Manual & Helping Material;Internal;Security & Crime Prevention
+10585;Legal_Plan_Sigma_0645;Description;Internal;Security & Crime Prevention
+10586;Sales_Report_Epsilon_0646;Manual & Helping Material;Internal;Security & Crime Prevention
+10587;IT_Policy_Omega_0647;Description;Internal;Security & Crime Prevention
+10588;Technical_Plan_Zeta_0648;Description;Internal;Security & Crime Prevention
+10589;Legal_Strategy_Omega_0649;Description;Internal;Security & Crime Prevention
+1059;Legal_Guide_Theta_0650;Act document/Delivery note;Private customer;Lending
+10590;Finance_Plan_Beta_0651;Manual & Helping Material;Internal;Security & Crime Prevention
+10591;Sales_Policy_Beta_0652;Description;Internal;Security & Crime Prevention
+10592;Finance_Guide_Sigma_0653;Description;Internal;Security & Crime Prevention
+10593;Marketing_Procedure_Zeta_0654;Condition;"Corporate customer;#Private customer";Security & Crime Prevention
+10594;Procurement_Plan_Alpha_0655;Manual & Helping Material;Internal;Security & Crime Prevention
+10595;Finance_Plan_Theta_0656;Description;Internal;Security & Crime Prevention
+10596;Legal_Guide_Gamma_0657;Description;Internal;Security & Crime Prevention
+10597;Legal_Report_Delta_0658;Description;"Corporate customer;#Private customer";Security & Crime Prevention
+10598;HR_Manual_Beta_0659;Description;Internal;Security & Crime Prevention
+10599;Operations_Policy_Theta_0660;Meeting Minutes;"Corporate customer;#Private customer";Security & Crime Prevention
+106;IT_Overview_Omega_0661;Report;Internal;Audit
+1060;Technical_Checklist_Alpha_0662;Act document/Delivery note;Private customer;Lending
+10600;Compliance_Policy_Omega_0663;Guideline;Internal;Security & Crime Prevention
+10601;HR_Report_Omega_0664;Guideline;Internal;Security & Crime Prevention
+10602;Procurement_Overview_Beta_0665;Description;Internal;Security & Crime Prevention
+10603;Marketing_Report_Beta_0666;Terms of Reference (ToR);Internal;Security & Crime Prevention
+10604;Technical_Manual_Gamma_0667;Manual & Helping Material;Internal;Security & Crime Prevention
+10605;Compliance_Report_Alpha_0668;Terms of Reference (ToR);Internal;Security & Crime Prevention
+1061;HR_Procedure_Delta_0669;Report;Private customer;Lending
+10612;IT_Manual_Omega_0670;;n/d;Lending
+10613;Procurement_Checklist_Omega_0671;Application;n/d;Lending
+10614;Technical_Strategy_Omega_0672;Correspondence/Notification;n/d;Lending
+10615;IT_Report_Gamma_0673;Consent/Confirmation;Corporate customer;Finance
+10616;Marketing_Strategy_Theta_0674;Application;n/d;Channels & Technology
+10617;Procurement_Plan_Epsilon_0675;Consent/Confirmation;n/d;Channels & Technology
+10618;Sales_Checklist_Sigma_0676;Correspondence/Notification;n/d;Channels & Technology
+10619;Legal_Guide_Gamma_0677;Consent/Confirmation;n/d;Lending
+1062;Sales_Summary_Zeta_0678;Report;Private customer;Lending
+10620;HR_Manual_Sigma_0679;Consent/Confirmation;Private customer;Security & Crime Prevention
+10621;Technical_Summary_Delta_0680;Consent/Confirmation;n/d;
+10622;Technical_Overview_Alpha_0681;Application;n/d;Channels & Technology
+10623;Sales_Guide_Gamma_0682;Correspondence/Notification;n/d;Channels & Technology
+10624;IT_Guide_Theta_0683;Meeting Minutes;;Management
+10625;Technical_Manual_Theta_0684;Report;Internal;Human Resources
+10626;Sales_Manual_Alpha_0685;Directive;Internal;Legal
+10627;IT_Guide_Zeta_0686;Condition ;"Corporate customer;#Private customer";Saving, investment & advice
+10628;Marketing_Procedure_Omega_0687;Power of attorney;"Private customer;#Corporate customer";Security & Crime Prevention
+10629;Finance_Strategy_Omega_0688;Power of attorney;"Private customer;#Corporate customer";Security & Crime Prevention
+1063;Operations_Guide_Gamma_0689;Act document/Delivery note;Private customer;Lending
+10630;Finance_Plan_Zeta_0690;Description;Internal;Security & Crime Prevention
+10631;IT_Plan_Alpha_0691;Guideline;Internal;Security & Crime Prevention
+10632;Procurement_Strategy_Alpha_0692;Description;Internal;Security & Crime Prevention
+10633;Procurement_Guide_Epsilon_0693;Description;Internal;Security & Crime Prevention
+10634;Legal_Procedure_Alpha_0694;Description;Internal;Security & Crime Prevention
+10635;HR_Report_Delta_0695;Terms of Reference (ToR);Internal;Security & Crime Prevention
+10636;Compliance_Plan_Theta_0696;Terms of Reference (ToR);Internal;Security & Crime Prevention
+10637;Compliance_Checklist_Delta_0697;Description;Internal;Security & Crime Prevention
+10639;Procurement_Overview_Alpha_0698;Description;Internal;Security & Crime Prevention
+1064;Procurement_Report_Sigma_0699;Report;Private customer;Lending
+10640;HR_Manual_Epsilon_0700;Manual & Helping Material;Internal;Security & Crime Prevention
+10641;Finance_Plan_Sigma_0701;Manual & Helping Material;Internal;Security & Crime Prevention
+10642;Operations_Overview_Alpha_0702;Manual & Helping Material;Internal;Security & Crime Prevention
+10643;HR_Plan_Delta_0703;Manual & Helping Material;Internal;Security & Crime Prevention
+10644;Technical_Summary_Theta_0704;Description;Internal;Security & Crime Prevention
+10645;Procurement_Checklist_Epsilon_0705;Description;Internal;Security & Crime Prevention
+10646;Finance_Overview_Gamma_0706;Manual & Helping Material;Internal;Security & Crime Prevention
+10647;Marketing_Report_Omega_0707;Description;Internal;Security & Crime Prevention
+10648;Technical_Policy_Beta_0708;Description;Internal;Security & Crime Prevention
+10649;Finance_Overview_Alpha_0709;Description;Internal;Security & Crime Prevention
+1065;Legal_Overview_Gamma_0710;Act document/Delivery note;Private customer;Lending
+10650;HR_Manual_Zeta_0711;Description;Internal;Security & Crime Prevention
+10651;Technical_Checklist_Delta_0712;Description;Internal;Security & Crime Prevention
+10652;Marketing_Report_Theta_0713;Description;Internal;Security & Crime Prevention
+10653;Legal_Strategy_Delta_0714;Description;Internal;Security & Crime Prevention
+10654;Compliance_Summary_Beta_0715;Description;Internal;Security & Crime Prevention
+10655;Marketing_Procedure_Alpha_0716;Description;Internal;Security & Crime Prevention
+10656;Finance_Report_Gamma_0717;Description;Internal;Security & Crime Prevention
+10657;Legal_Policy_Zeta_0718;Description;Internal;Security & Crime Prevention
+10658;Compliance_Guide_Alpha_0719;Description;Internal;Security & Crime Prevention
+10659;Legal_Strategy_Omega_0720;Description;Internal;Security & Crime Prevention
+1066;HR_Guide_Zeta_0721;Agreement;Private customer;Lending
+10660;Technical_Plan_Alpha_0722;Description;Internal;Security & Crime Prevention
+10661;Compliance_Summary_Zeta_0723;Description;Internal;Security & Crime Prevention
+10662;Marketing_Plan_Alpha_0724;Description;Internal;Security & Crime Prevention
+10663;Sales_Summary_Omega_0725;Guideline;Internal;Security & Crime Prevention
+10664;IT_Summary_Zeta_0726;Guideline;Internal;Security & Crime Prevention
+10665;Technical_Overview_Sigma_0727;Description;Internal;Security & Crime Prevention
+10666;Marketing_Guide_Beta_0728;Description;Internal;Security & Crime Prevention
+10667;Procurement_Checklist_Beta_0729;Description;Internal;Security & Crime Prevention
+10668;Sales_Manual_Zeta_0730;Description;Internal;Security & Crime Prevention
+10669;Operations_Strategy_Gamma_0731;Description;Internal;Security & Crime Prevention
+1067;HR_Checklist_Gamma_0732;Application;Private customer;Lending
+10670;Legal_Checklist_Sigma_0733;Description;Internal;Security & Crime Prevention
+10671;Operations_Manual_Gamma_0734;Description;Internal;Security & Crime Prevention
+10672;Legal_Manual_Omega_0735;Description;Internal;Security & Crime Prevention
+10673;Procurement_Plan_Zeta_0736;Description;Internal;Security & Crime Prevention
+10674;IT_Summary_Gamma_0737;Description;Internal;Security & Crime Prevention
+10675;Marketing_Policy_Gamma_0738;Description;Internal;Security & Crime Prevention
+10676;Legal_Strategy_Delta_0739;Description;Internal;Security & Crime Prevention
+10677;IT_Policy_Omega_0740;Description;Internal;Security & Crime Prevention
+10678;Operations_Checklist_Beta_0741;Manual & Helping Material;Internal;Security & Crime Prevention
+10679;Sales_Checklist_Omega_0742;Manual & Helping Material;Internal;Security & Crime Prevention
+1068;Legal_Strategy_Theta_0743;Agreement;Private customer;Lending
+10680;Technical_Policy_Gamma_0744;Manual & Helping Material;Internal;Security & Crime Prevention
+10681;Operations_Manual_Sigma_0745;Manual & Helping Material;Internal;Security & Crime Prevention
+10682;Marketing_Strategy_Gamma_0746;Manual & Helping Material;Internal;Security & Crime Prevention
+10683;Sales_Plan_Delta_0747;Manual & Helping Material;Internal;Security & Crime Prevention
+10684;Operations_Plan_Alpha_0748;Manual & Helping Material;Internal;Security & Crime Prevention
+10685;Compliance_Guide_Delta_0749;Description;Internal;Security & Crime Prevention
+10686;Sales_Checklist_Omega_0750;Description;Internal;Security & Crime Prevention
+10687;Operations_Procedure_Delta_0751;Description;Internal;Security & Crime Prevention
+10688;Marketing_Policy_Zeta_0752;Description;Internal;Security & Crime Prevention
+10689;Legal_Overview_Alpha_0753;Description;Internal;Security & Crime Prevention
+1069;IT_Guide_Delta_0754;Report;Private customer;Lending
+10690;Compliance_Checklist_Sigma_0755;Description;Internal;Security & Crime Prevention
+10691;HR_Plan_Omega_0756;Report;Internal;Security & Crime Prevention
+10692;Legal_Procedure_Sigma_0757;Description;Internal;Security & Crime Prevention
+10693;Finance_Manual_Zeta_0758;Guideline;Internal;Security & Crime Prevention
+10694;Legal_Strategy_Zeta_0759;Description;Internal;Security & Crime Prevention
+10695;HR_Policy_Sigma_0760;Description;Internal;Security & Crime Prevention
+10696;HR_Policy_Epsilon_0761;Description;Internal;Security & Crime Prevention
+10697;Sales_Guide_Alpha_0762;Description;Internal;Security & Crime Prevention
+10698;Marketing_Plan_Sigma_0763;Description;Internal;Security & Crime Prevention
+10699;HR_Summary_Sigma_0764;Description;Internal;Security & Crime Prevention
+107;IT_Policy_Gamma_0765;Decree;Internal;Human Resources
+1070;Sales_Plan_Sigma_0766;Agreement;Private customer;Lending
+10700;HR_Procedure_Sigma_0767;Description;Internal;Security & Crime Prevention
+10701;Technical_Checklist_Omega_0768;Description;Internal;Security & Crime Prevention
