@@ -444,7 +444,7 @@ ID;Document Name (local) = Document type;Doc Category;Facing;Process Group
 10397;Technical_Overview_Alpha_0443;Report;Internal;Finance
 10398;IT_Strategy_Theta_0444;Report;Internal;Finance
 10399;Procurement_Report_Zeta_0445;Report;Internal;Finance
-104;Marketing_Procedure_Alpha_0446;Agreement;"Internal;#Other external";Management
+104;Marketing_Procedure_Alpha_0446;Agreement;Internal;Other external;Management
 1040;Sales_Policy_Omega_0447;Application;Private customer;Lending
 10400;Technical_Overview_Beta_0448;Report;Internal;Finance
 10401;Legal_Strategy_Zeta_0449;Report;Internal;Finance
@@ -767,6 +767,7 @@ ID;Document Name (local) = Document type;Doc Category;Facing;Process Group
 1070;Sales_Plan_Sigma_0766;Agreement;Private customer;Lending
 10700;HR_Procedure_Sigma_0767;Description;Internal;Security & Crime Prevention
 10701;Technical_Checklist_Omega_0768;Description;Internal;Security & Crime Prevention
+
 
 
 
