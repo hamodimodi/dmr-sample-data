@@ -1,7 +1,7 @@
 ID;Document Name (local) = Document type;Doc Category;Facing;Process Group
 1;Marketing_Report_Theta_0001;Decision;Internal;Management
 10;Marketing_Summary_Beta_0002;Meeting minutes;Internal;Management
-100;Technical_Report_Omega_0003;Agreement;"Internal;Other external";Management
+100;Technical_Report_Omega_0003;Agreement;Internal;Other external;Management
 1000;Technical_Policy_Zeta_0004;Agreement;Private customer;Lending
 10000;Legal_Policy_Gamma_0005;Guideline;Internal;Finance
 10001;Marketing_Overview_Omega_0006;Guideline;Internal;Finance
@@ -767,4 +767,5 @@ ID;Document Name (local) = Document type;Doc Category;Facing;Process Group
 1070;Sales_Plan_Sigma_0766;Agreement;Private customer;Lending
 10700;HR_Procedure_Sigma_0767;Description;Internal;Security & Crime Prevention
 10701;Technical_Checklist_Omega_0768;Description;Internal;Security & Crime Prevention
+
 
