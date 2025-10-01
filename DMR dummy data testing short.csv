@@ -553,7 +553,7 @@ ID;Document Name (local) = Document type;Doc Category;Facing;Process Group
 10495;Finance_Procedure_Theta_0552;Report;Other external;Finance
 10496;Compliance_Plan_Epsilon_0553;Consent/Confirmation;Corporate customer;Saving, investment & advice
 10497;Compliance_Policy_Theta_0554;Questionnaire;Private customer;Saving, investment & advice
-10499;Sales_Report_Epsilon_0555;Correspondence/Notification;"Private customer;#Corporate customer;#Internal;#Other external";Management
+10499;Sales_Report_Epsilon_0555;Correspondence/Notification;Private customer;Corporate customer;Internal;Other external;Management
 105;Sales_Plan_Delta_0556;Consent/Confirmation;"Internal;#Other external";Management
 1050;Operations_Manual_Epsilon_0557;Decision;Private customer;Lending
 10500;Technical_Manual_Zeta_0558;Correspondence/Notification;"Private customer;#Corporate customer;#Internal;#Other external";Management
@@ -767,6 +767,7 @@ ID;Document Name (local) = Document type;Doc Category;Facing;Process Group
 1070;Sales_Plan_Sigma_0766;Agreement;Private customer;Lending
 10700;HR_Procedure_Sigma_0767;Description;Internal;Security & Crime Prevention
 10701;Technical_Checklist_Omega_0768;Description;Internal;Security & Crime Prevention
+
 
 
 
