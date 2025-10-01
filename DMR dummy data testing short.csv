@@ -111,7 +111,7 @@ ID;Document Name (local) = Document type;Doc Category;Facing;Process Group
 10097;Marketing_Procedure_Gamma_0110;Report;Other external;Finance
 10098;Procurement_Policy_Delta_0111;Report;Other external;Finance
 10099;Procurement_Report_Gamma_0112;Report;Other external;Finance
-101;Technical_Manual_Alpha_0113;Agreement;"Other external;#Internal";Management
+101;Technical_Manual_Alpha_0113;Agreement;Other external;Internal;Management
 1010;Marketing_Overview_Theta_0114;Agreement;Private customer;Lending
 10100;Legal_Policy_Gamma_0115;Report;Internal;Finance
 10101;IT_Manual_Zeta_0116;Report;Other external;Finance
@@ -767,5 +767,6 @@ ID;Document Name (local) = Document type;Doc Category;Facing;Process Group
 1070;Sales_Plan_Sigma_0766;Agreement;Private customer;Lending
 10700;HR_Procedure_Sigma_0767;Description;Internal;Security & Crime Prevention
 10701;Technical_Checklist_Omega_0768;Description;Internal;Security & Crime Prevention
+
 
 
