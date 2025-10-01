@@ -222,7 +222,7 @@ ID;Document Name (local) = Document type;Doc Category;Facing;Process Group
 10197;IT_Overview_Epsilon_0221;Report;Other external;Finance
 10198;Sales_Report_Epsilon_0222;Report;Other external;Finance
 10199;Legal_Policy_Beta_0223;Report;Other external;Finance
-102;Compliance_Overview_Epsilon_0224;Agreement;"Internal;#Other external";Management
+102;Compliance_Overview_Epsilon_0224;Agreement;Internal;Other external;Management
 1020;Sales_Overview_Zeta_0225;Agreement;Private customer;Lending
 10200;Sales_Manual_Gamma_0226;Report;Other external;Finance
 10201;Finance_Plan_Delta_0227;Report;Other external;Finance
@@ -767,6 +767,7 @@ ID;Document Name (local) = Document type;Doc Category;Facing;Process Group
 1070;Sales_Plan_Sigma_0766;Agreement;Private customer;Lending
 10700;HR_Procedure_Sigma_0767;Description;Internal;Security & Crime Prevention
 10701;Technical_Checklist_Omega_0768;Description;Internal;Security & Crime Prevention
+
 
 
 
