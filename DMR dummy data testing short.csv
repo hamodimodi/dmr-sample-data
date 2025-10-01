@@ -333,7 +333,7 @@ ID;Document Name (local) = Document type;Doc Category;Facing;Process Group
 10297;Finance_Strategy_Omega_0332;Report;Other external;Finance
 10298;Legal_Strategy_Zeta_0333;Report;Other external;Finance
 10299;Finance_Checklist_Sigma_0334;Report;Internal;Finance
-103;IT_Overview_Delta_0335;Agreement;"Internal;#Other external";Management
+103;IT_Overview_Delta_0335;Agreement;Internal;Other external;Management
 1030;Sales_Policy_Zeta_0336;Application;Private customer;Lending
 10300;Operations_Guide_Gamma_0337;Report;Internal;Finance
 10301;Procurement_Guide_Omega_0338;Report;Other external;Finance
@@ -767,6 +767,7 @@ ID;Document Name (local) = Document type;Doc Category;Facing;Process Group
 1070;Sales_Plan_Sigma_0766;Agreement;Private customer;Lending
 10700;HR_Procedure_Sigma_0767;Description;Internal;Security & Crime Prevention
 10701;Technical_Checklist_Omega_0768;Description;Internal;Security & Crime Prevention
+
 
 
 
